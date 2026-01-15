@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project performs a simple analysis of Kindle product reviews using Python and Jupyter Notebook.  
-The goal is to explore the dataset, understand review patterns, and gain basic insights through data analysis and visualization.
+The goal is to explore the dataset, understand review patterns, and gain basic insights through data analysis.
 
 ## 📂 Project Structure
 kindle-review-analysis/ │ ├── data/ │   └── dataset.csv │ ├── analysis.ipynb ├── README.md └── requirements.txt
@@ -11,14 +11,12 @@ kindle-review-analysis/ │ ├── data/ │   └── dataset.csv │ ├�
 - Python
 - Jupyter Notebook
 - Pandas
-- Matplotlib
-- Seaborn
 
 ## 📊 What This Project Does
 - Loads and explores Kindle review data
 - Performs basic data cleaning
 - Analyzes ratings and reviews
-- Creates simple visualizations
+- Predict positive or negative rating based on review text
 
 ## ▶️ How to Run the Project
 1. Clone this repository:
